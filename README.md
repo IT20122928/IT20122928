@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
 </div>
 <div id="badges"align="center">
-  <a href="linkedin.com/in/dilini-madhushika">
+  <a href="https://github.com/IT20122928">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
