@@ -14,7 +14,7 @@
 
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Developer  from Sri Lanka.
-- 🔭 I’m currently working as an Trainee Software Engineer at Elzian Agro PVT LTD
+- 🔭 I’m currently working as an Trainee Software Engineer
 - 📗 I’m currently learning Mern stack & GitHub
 - 📬 How to reach me: dilinimadhushika15@gmail.com
 
