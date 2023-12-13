@@ -14,8 +14,8 @@
 
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Developer  from Sri Lanka.
-- 🔭 I’m currently working as an Trainee Software Engineer
-- 📗 I’m currently learning Mern stack & GitHub
+- 🔭 I’m currently working as an Intern QA Engineer at Virtusa
+- 📗 I’m currently learning Agile Methodology
 - 📬 How to reach me: dilinimadhushika15@gmail.com
 
 <div align="center">
